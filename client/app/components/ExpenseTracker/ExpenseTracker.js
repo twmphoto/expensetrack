@@ -65,8 +65,7 @@ fetch('/api/account/expensetracker', {
 }
 
 
-  render(){
-    let 
+  render(){ 
     return(
         <div>
            <div>
