@@ -5,7 +5,7 @@ import {
   setInStorage,
 } from '../../components/utils/storage';
 import './style.css'
-import {loginImg} from './logo.png'
+//import {loginImg} from './logo.png'
 import e from 'express';
 import {ExpenseTracker} from '../ExpenseTracker/ExpenseTracker'
 
